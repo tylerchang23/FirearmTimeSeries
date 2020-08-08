@@ -1,6 +1,3 @@
-# STA 137- FINAL PROJECT
-# TYLER CHANG
-
 library(astsa)
 
 setwd('~/Downloads')
